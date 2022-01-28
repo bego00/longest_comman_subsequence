@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "454734d7-0b28-4310-9615-56cb99440820": {
+      "ProjectGuid": "454734d7-0b28-4310-9615-56cb99440820",
+      "DisplayName": "longestcommansubsequence",
+      "ColorIndex": 0
+    },
+    "6f8ea133-c72b-480c-bcfb-82c89e0e09a6": {
+      "ProjectGuid": "6f8ea133-c72b-480c-bcfb-82c89e0e09a6",
+      "DisplayName": "longest",
+      "ColorIndex": 1
+    },
+    "31a0b7b8-b4fd-4b6d-a12e-b083a2376549": {
+      "ProjectGuid": "31a0b7b8-b4fd-4b6d-a12e-b083a2376549",
+      "DisplayName": "Bottomup",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
